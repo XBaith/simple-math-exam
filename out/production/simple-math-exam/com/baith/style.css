@@ -1,0 +1,34 @@
+.add_button {
+    -fx-font: 20 arial;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: #e2e2e2;
+    -fx-base: #FF3030;
+}
+
+.sub_button {
+    -fx-font: 20 arial;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: #e2e2e2;
+    -fx-base: #4876FF;
+}
+
+.mix_button {
+    -fx-font: 20 arial;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: #e2e2e2;
+    -fx-base: #32CD32;
+}
+
+.flush_button {
+    -fx-font: 20 arial;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: #e2e2e2;
+    -fx-base: #FFFFFF;
+}
+
+.commit_button {
+    -fx-font: 20 arial;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: #e2e2e2;
+    -fx-base: #FFFFFF;
+}
